@@ -195,6 +195,7 @@ streamlit run app.py  # or python app.py depending on your framework
 
 ## Contributors
 - **Anvesha Srivastava** - [GitHub Profile](https://github.com/SrivastavaAnvesha)
+- **Harshita Ojha**
 
 ---
 
